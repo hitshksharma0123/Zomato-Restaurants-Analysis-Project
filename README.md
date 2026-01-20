@@ -4,7 +4,7 @@ Project Overview
 
 This project involves building an end-to-end analytics dashboard using global Zomato restaurant data to support data-driven decisions for restaurant expansion, pricing strategy, and customer experience optimization.
 
-Key Objectives
+## Key Objectives
 
 Analyze restaurant performance across countries, cities, and time periods
 
@@ -12,7 +12,7 @@ Identify growth opportunities and low-competition markets for new restaurants
 
 Understand how pricing, ratings, and delivery options influence customer feedback
 
-Work Performed
+## Work Performed
 
 Designed an interactive Excel dashboard to visualize restaurant trends and key business metrics.
 
@@ -26,7 +26,7 @@ Applied conditional logic, logical functions, and array formulas to derive insig
 
 Assessed competition intensity, cuisine performance, and rating distribution to recommend optimal countries, cities, and cuisines for expansion.
 
-Tools & Techniques
+## Tools & Techniques
 
 Excel (Pivot Tables, Lookups, Conditional Formatting, Array Formulas)
 
@@ -36,7 +36,7 @@ Exploratory Data Analysis (EDA)
 
 Dashboarding & Data Visualization
 
-Key Outcomes
+## Key Outcomes
 
 Identified high-potential markets with lower competition for restaurant expansion
 
